@@ -20,6 +20,7 @@ namespace e4userslist.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
